@@ -35,8 +35,8 @@ $`\textcolor{green}{\text{ 1. определение атрибутов, 3. оп
 
 $`\textcolor{green}{\text{(явное указание PK, FK), 4. картинка в ER-нотации "Воронья лапка" (Crow's Foot) с явными атрибутами)}}`$
 
-![image info](/images0/db_bank_project_semestr4.png)
-
+![image info](/images0/db_bank_project_semestr4.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 $`\textcolor{green}{\text{Физическое проектирование (создание схемы базы данных для конкретной СУБД, }}`$
@@ -44,7 +44,7 @@ $`\textcolor{green}{\text{Физическое проектирование (с�
 $`\textcolor{green}{\text{результат физического проектирования логической схемы - SQL-скрипт,}}`$
  $`\textcolor{green}{\text{естественно, с указанием типов всех атрибутов, а также ограничений)}}`$
 
-![image](/images0/bank.png)
+![image info](/images0/bank.png)
 
 ![image info](/images0/emp.png)
 
