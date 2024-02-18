@@ -47,7 +47,7 @@ $`\textcolor{green}{\text{результат физического проект
 ![image info](/images0/bank.png)
 
 ![image info](/images0/emp.png)
-
+![image info](/data_base_course/images0/cl.png)
 ![image info](/images0/cl.png)
 
 ![image info](/images0/cmcs.png)
