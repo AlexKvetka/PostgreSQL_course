@@ -36,7 +36,7 @@ $`\textcolor{green}{\text{ 1. определение атрибутов, 3. оп
 $`\textcolor{green}{\text{(явное указание PK, FK), 4. картинка в ER-нотации "Воронья лапка" (Crow's Foot) с явными атрибутами)}}`$
 
 ![image info](/images0/db_bank_project_semestr4.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ArApus/PostgreSQL_course/blob/main/images0/db_bank_project_semestr4.png?raw=true)
 
 
 $`\textcolor{green}{\text{Физическое проектирование (создание схемы базы данных для конкретной СУБД, }}`$
